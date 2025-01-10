@@ -16,6 +16,7 @@ npm i --save -D typescript ts-node @types/express @types/node @types/cors
 npm i --save-dev @fullstacksjs/eslint-config eslint prettier
 ```
 
+---
 
 # For Start
 1. Create a File .env in Path or Main Root and set your configs {DB_ADDRESS, SERVER_PORT, JWT_KEY}.
@@ -24,6 +25,6 @@ npm i --save-dev @fullstacksjs/eslint-config eslint prettier
      npm run build
      ```
 3. Start the app in development mode.
- ```sh
-  npm run dev
-  ```
+    ```sh
+    npm run dev
+    ```
