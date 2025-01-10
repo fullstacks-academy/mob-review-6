@@ -18,16 +18,12 @@ npm i --save-dev @fullstacksjs/eslint-config eslint prettier
 
 
 # For Start
-
-step 1:
-     Create a File .env in Path or Main Root and set your configs {DB_ADDRESS, SERVER_PORT, JWT_KEY}.
-
-step 2: Build the TypeScript project (compile to JavaScript) =>
+1. Create a File .env in Path or Main Root and set your configs {DB_ADDRESS, SERVER_PORT, JWT_KEY}.
+2. Build the TypeScript project (compile to JavaScript) =>
     ```sh
      npm run build
      ```
-
-step 3: Start the app in development mode.
+3. Start the app in development mode.
  ```sh
   npm run dev
   ```
