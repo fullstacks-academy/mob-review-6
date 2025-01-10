@@ -7,7 +7,7 @@ npm i express mongoose dotenv express-validator autobind-decorator winston cors 
 
 ### Install TypeScript and related type definitions for development.
 ```sh
-npm i --save -D typescript ts-node @types/express @types/node @types/cors
+npm i --save-dev typescript ts-node @types/express @types/node @types/cors
 ```
 
 ### Install ESLint and Prettier for code linting and formatting.
